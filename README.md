@@ -7,9 +7,8 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 
 ##### 如何用脚本上传
 
-
-##### 如何批量上传？
-###### 
+###### `python upload_video.py --file file_name --title title_name --description video description --category 20 --keywords tags`
+###### 其中，category没太多意义，如果您非常在意，可以查阅[YouTube视频类型列表](https://developers.google.com/youtube/v3/docs/videoCategories/list)
 
 
 ##### 如何使用代理
