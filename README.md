@@ -2,7 +2,7 @@
 I make this repository to automate YouTube Repetitive operations, so far including uploading.
 
 ## Usage
-###### 中文使用方法(#使用方法-中文)
+###### 中文使用方法(#本程序安装方法)
 
 #### Prerequisites
 ##### 1。 Python.
