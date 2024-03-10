@@ -6,8 +6,8 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 ### 使用方法-中文
 
 
-##### 需要的东西(准备工作)
-###### 1. 系统安装Python(略，自己网上查，到处都是)
+#### 需要的东西(准备工作)
+##### 1. 系统安装Python(略，自己网上查，到处都是)
 ###### 2. 获得YouTube上传API凭据(写在下面)
 ###### 3. 通过Google `品牌审核(Brand Verification)`, 这一步最难，通常需要一个月。如果没通过，其他都百搭(如果没通过，用脚本上传的视频将无法公开public)。
 
