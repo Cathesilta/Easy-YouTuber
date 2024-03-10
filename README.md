@@ -6,7 +6,7 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 
 #### Prerequisites
 ##### 1。 Python.
-##### 2.  [YouTube API](#Get YouTube upload API and the credential)
+##### 2.  [YouTube API](#tet-youtube-upload-api-and-the-credential)
 ##### 3.  Pass "Google Brand Verification". This is the hardest step, normally taking one month. If you don't pass this verification, any video you upload with any script will remain private.
 
 #### Installation
