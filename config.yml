@@ -3,6 +3,6 @@ Dependent_File:
                                                           
 
 Proxy:
-  use_proxy : 1                                           # if you're not in the country needing a proxy (like China), please fill out with 0                                              
+  use_proxy : 1                                           # if you're not in the country needing a proxy, please fill out with 0                                              
   address : '127.0.0.1'
   port : '7890'
