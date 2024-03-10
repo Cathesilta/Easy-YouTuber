@@ -5,6 +5,17 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 
 ### 使用方法-中文
 
+##### 如何用脚本上传
+
+
+##### 如何批量上传？
+###### 
+
+
+##### 如何使用代理
+
+###### 在`config.yml`中 的`Proxy`下，将`use_proxy`填为1；将`address`填成代理的地址(如果您用的是Clash，通常默认为127.0.0.1)；将`port`填为代理的端口(如果您用的是Clash，通常默认为7890).
+
 ##### 如何开启YouTube上传API
 
 ###### 1. 登录[Gooogle 开发者控制台(Developer Console)](https://console.developers.google.com/).
