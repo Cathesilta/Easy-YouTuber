@@ -1,0 +1,8 @@
+Dependent_File:
+  client_secrets_file : './client_secrets.json'           # your client secrets file obtained from google developer console
+                                                          
+
+Proxy:
+  use_proxy : 1                                           # if you're not in the country needing a proxy (like China), please fill out with 0                                              
+  address : '127.0.0.1'
+  port : '7890'
