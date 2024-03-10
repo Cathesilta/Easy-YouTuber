@@ -15,9 +15,9 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 
 #### 本程序安装方法
 
-##### `git clone https://github.com/Cathesilta/Easy-YouTuber.git`
-##### `cd Easy-YouTuber`
-##### `python setup.py`
+##### 1. `git clone https://github.com/Cathesilta/Easy-YouTuber.git`
+##### 2. `cd Easy-YouTuber`
+##### 3. `python setup.py`
 
 #### 如何此程序上传视频
 
