@@ -1,7 +1,38 @@
 # Easy-YouTuber
 I make this repository to automate YouTube Repetitive operations, so far including uploading.
 
+## Usage
+###### 中文使用方法(#使用方法-中文)
 
+#### Prerequisites
+##### 1。 Python.
+##### 2.  YouTube API(#Get YouTube upload API and the credential)
+##### 3.  Pass "Google Brand Verification". This is the hardest step, normally taking one month. If you don't pass this verification, any video you upload with any script will remain private.
+
+#### Installation
+
+##### 1. `git clone https://github.com/Cathesilta/Easy-YouTuber.git`
+##### 2. `cd Easy-YouTuber`
+##### 3. `python setup.py`
+
+#### Use the script to upload a YouTube video
+
+##### `python upload_video.py --file file_name --title title_name --description video description --category 20 --keywords tags`
+
+#### Upload YouTube video through a proxy
+
+##### The default configuration has already been set up. If you need to make changes, in the config.yml file under Proxy, set use_proxy to 0 as disabling the proxy; change address to the address of the proxy (if you are using Clash, it is usually set to 127.0.0.1 by default); set port to the port of the proxy (if you are using Clash, it is usually set to 7890 by default).
+
+
+#### Get YouTube upload API and the credential
+
+##### 1. Login[Gooogle (Developer Console)](https://console.developers.google.com/).
+##### 1.5 Once you log in, you’ll automatically be taken to an empty dashboard if you haven't created any projects. On the upper right-hand corner, click Create Project.
+##### 2. You’ll be taken to a screen where you can add a project name, select your organization, and select a location (URL).
+##### 3. On the new project dashboard, click `Explore & Enable APIs`.
+##### 4. In the library, find to `YouTube Data API v3` under `YouTube APIs`. Then click `Enable`.
+##### 5. After clicking Enable, you’ll be taken to an overview page. On the top right corner, click `Create Credentials`.
+##### 6. On the Credentials window, you'll be asking "Which API are you using?" Select `YouTube Data API v3`; "Where will you be calling API from?" Select `Web server (e.g. node js. Tomcat)`; "What data will you be accessing?" Check the `Public data` box.
 
 ## 使用方法-中文
 
