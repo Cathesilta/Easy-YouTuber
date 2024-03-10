@@ -36,6 +36,21 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 ##### 6. On the Credentials window, you'll be asking "Which API are you using?" Select `YouTube Data API v3`; "Where will you be calling API from?" Select `Web server (e.g. node js. Tomcat)`; "What data will you be accessing?" Check the `Public data` box.
 ##### 7. Right below that, click on the blue button titled `What credentials do I need?` After that, your API key will automatically load. Click `Done`. Now you'll get a .json file, that is what we use as the credential when we upload with script.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 使用方法-中文
 
 
