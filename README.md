@@ -1,6 +1,7 @@
 # Easy-YouTuber
 I created this repository to automate repetitive operations on YouTube, including uploading. This repo will save you a significant amount of time especially if your YouTube content involves mass production.
 It is also beneficial to use this repository in conjunction with SEO (Search Engine Optimization) tools. Similarly, some SEO tools can generate titles, descriptions, or tags based on their technical SEO results. Then, you can automate the integration of that content with this program.
+
 我创建了这个仓库来自动化YouTube上的重复操作，包括上传。如果你的YouTube内容涉及大规模生产，这个仓库将为你节省大量时间。
 使用这个仓库结合SEO（搜索引擎优化）工具也是非常有益的。例如，一些SEO工具可以根据它们的技术SEO结果生成标题、描述或标签。然后，你可以用这个程序自动整合那些内容。
 
