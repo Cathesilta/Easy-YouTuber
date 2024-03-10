@@ -5,15 +5,22 @@ I make this repository to automate YouTube Repetitive operations, so far includi
 
 ### 使用方法-中文
 
+
+##### 需要的东西(准备工作)
+###### 1. 系统安装Python(略，自己网上查，到处都是)
+###### 2. 获得YouTube上传API凭据(写在下面)
+###### 3. 通过Google `品牌审核(Brand Verification)`, 这一步最难，通常需要一个月。如果没通过，其他都百搭(如果没通过，用脚本上传的视频将无法公开public)。
+
+
 ##### 如何用脚本上传
 
 ###### `python upload_video.py --file file_name --title title_name --description video description --category 20 --keywords tags`
 ###### 其中，category没太多意义，如果您非常在意，可以查阅[YouTube视频类型列表](https://developers.google.com/youtube/v3/docs/videoCategories/list)
 
 
-##### 如何使用代理
+##### 上传时如何使用代理
 
-###### 在`config.yml`中 的`Proxy`下，将`use_proxy`填为1；将`address`填成代理的地址(如果您用的是Clash，通常默认为127.0.0.1)；将`port`填为代理的端口(如果您用的是Clash，通常默认为7890).
+###### 默认已经配置好了。如需更改，在`config.yml`中 的`Proxy`下，将`use_proxy`填为1；将`address`填成代理的地址(如果您用的是Clash，通常默认为127.0.0.1)；将`port`填为代理的端口(如果您用的是Clash，通常默认为7890).
 
 ##### 如何开启YouTube上传API
 
